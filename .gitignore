@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+build/
+dist/
+osxnotify.egg-info/
