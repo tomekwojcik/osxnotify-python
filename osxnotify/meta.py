@@ -19,5 +19,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-from .meta import *
-from .osxnotify import notify
+__title__ = 'osxnotify'
+__version__ = '1.0'
+__author__ = u'Tomek Wójcik'
+__license__ = 'MIT'
+__copyright__ = u'Copyright (c) 2015 Tomek Wójcik <tomek@bthlabs.pl>'
